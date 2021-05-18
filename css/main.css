@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: #eb8432;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #dd5678;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #c85ba9;
 }
 
 
@@ -78,7 +78,7 @@ footer {
   footer {
     background-color: ;
   }
-  
+
 }
 
 
@@ -103,5 +103,5 @@ footer {
   footer {
     background-color: ;
   }
-   
+
 }
