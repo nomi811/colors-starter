@@ -60,23 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #faebd7;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #a52a2a;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #5f9ea0;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #deb887;
   }
 
   footer {
-    background-color: ;
+    background-color: #d2691e
   }
 
 }
